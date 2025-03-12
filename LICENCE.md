@@ -24,7 +24,7 @@ For complete details, including specific terms and conditions, please read the f
 - Use, modification, and distribution are permitted, provided compliance with [MPL-2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 - Any modifications made to ΔUI must be publicly released under MPL-2.0.
 - Full license terms are available at https://www.mozilla.org/en-US/MPL/2.0/.
-- Polymer Labs will not modify or further restrict the MPL-2.0 license terms for existing or future Open-Source License users, except to correct any legal errors.
+- Polymer Labs shall not amend, modify, or impose additional restrictions on the MPL-2.0 terms governing the Open-Source License, except as required to rectify legal inaccuracies or to comply with applicable law.
 
 ### 1.1. Non-Commercial Use Definition
 
