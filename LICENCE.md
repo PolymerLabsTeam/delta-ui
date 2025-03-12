@@ -50,11 +50,15 @@ Commercial use includes, without limitation:
 - Use by any business entity, corporation, company, or for-profit organization, regardless of direct monetization.
 - Distribution or sublicensing for monetary gain, including resale, repackaging, and white-labeling.
 
-### 2.2 Obtaining a Commercial License
+### 2.2. Obtaining a Commercial License
 
 Commercial Licenses must be obtained separately. Contact [licensing@deltaui.dev](mailto:sales@deltaui.dev) or visit [deltaui.dev/licensing](deltaui.dev/licensing).
 
-### 2.3. Commercial License Attribution
+### 2.3. Modification of Commercial License:
+
+Polymer Labs reserves the right, at its sole discretion, to amend, modify, or replace the terms of the Commercial License at any time. Such changes shall apply prospectively and will not retroactively affect existing license agreements unless expressly agreed in writing by the affected parties.
+
+### 2.4. Commercial License Attribution
 
 Explicit attribution is not required under the Commercial License.
 
