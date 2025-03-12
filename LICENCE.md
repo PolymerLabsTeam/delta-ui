@@ -86,6 +86,6 @@ This license does not grant any rights or licenses to patents held by Polymer La
 
 This License is governed by the laws of Australia. Any disputes arising from or related to this License shall be subject exclusively to the jurisdiction of Australian courts.
 
---
+---
 
 © 2025 Polymer Labs. All rights reserved.
